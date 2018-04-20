@@ -1,8 +1,18 @@
 ﻿<Properties StartupConfiguration="{34024E4F-53B6-446D-9B42-E3C865B0F648}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MultipleEntryTest/AppInitializer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultipleEntryTest/Tests.cs">
     <Files>
-      <File FileName="MultipleEntryTest/AppInitializer.cs" Line="30" Column="21" />
+      <File FileName="MultipleEntryTest/AppInitializer.cs" Line="10" Column="6" />
+      <File FileName="MultipleEntryTest/Tests.cs" Line="16" Column="9" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MultipleEntryTest" expanded="True" selected="True">
+            <Node name="MultipleEntryTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -10,5 +20,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MultipleEntryTest PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MultipleEntryTest PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

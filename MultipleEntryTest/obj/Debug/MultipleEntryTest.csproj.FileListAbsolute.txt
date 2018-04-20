@@ -1,0 +1,10 @@
+/Users/june/Projects/MultipleEntryTest/MultipleEntryTest/bin/Debug/MultipleEntryTest.dll
+/Users/june/Projects/MultipleEntryTest/MultipleEntryTest/bin/Debug/MultipleEntryTest.pdb
+/Users/june/Projects/MultipleEntryTest/MultipleEntryTest/bin/Debug/nunit.framework.dll
+/Users/june/Projects/MultipleEntryTest/MultipleEntryTest/bin/Debug/Xamarin.UITest.dll
+/Users/june/Projects/MultipleEntryTest/MultipleEntryTest/bin/Debug/nunit.framework.xml
+/Users/june/Projects/MultipleEntryTest/MultipleEntryTest/bin/Debug/Xamarin.UITest.xml
+/Users/june/Projects/MultipleEntryTest/MultipleEntryTest/obj/Debug/MultipleEntryTest.csprojResolveAssemblyReference.cache
+/Users/june/Projects/MultipleEntryTest/MultipleEntryTest/obj/Debug/MultipleEntryTest.csproj.CoreCompileInputs.cache
+/Users/june/Projects/MultipleEntryTest/MultipleEntryTest/obj/Debug/MultipleEntryTest.dll
+/Users/june/Projects/MultipleEntryTest/MultipleEntryTest/obj/Debug/MultipleEntryTest.pdb

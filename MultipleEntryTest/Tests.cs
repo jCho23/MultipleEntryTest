@@ -28,7 +28,7 @@ namespace MultipleEntryTest
         [Test]
         public void AppLaunches()
         {
-            app.Screenshot("First screen.");
+            app.Repl();
         }
     }
 }
